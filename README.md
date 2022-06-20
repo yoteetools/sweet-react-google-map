@@ -1,1 +1,1 @@
-# sweet-react-google-map
+# sweet=react-google-map
